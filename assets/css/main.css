@@ -1,0 +1,417 @@
+/* 메인페이지 */
+
+/* sc-visual */
+.sc-visual{
+    width: 100%;
+    max-height: 568px;
+    padding: 0 17px;
+}
+
+.sc-visual .swiper{
+    width: 100%;
+    height: 100%;
+}
+
+.sc-visual .swiper .thumb{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.sc-visual .swiper .thumb img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.sc-visual .swiper .text{
+    position: absolute;
+    bottom: 42px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.sc-visual .swiper .title{
+    font-size: clamp(24px, 4vw, 32px);
+    font-weight: 600;
+    line-height: 32px;
+    white-space: nowrap;
+}
+.sc-visual .swiper .subtitle{
+    font-size: clamp(12px, 2vw, 18px);
+    font-weight: 500;
+    padding: 10px 0;
+    white-space: nowrap;
+}
+
+.sc-visual .swiper .fraction{
+    position: absolute;
+    bottom: 16px;
+    right: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    width: 60px;
+    height: 18px;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+.sc-visual .swiper .fraction .total{
+    position: relative;
+}
+.sc-visual .swiper .fraction .total::before{
+    position: absolute;
+    top: 50%;
+    left: -8px;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 70%;
+    background: #fff;
+    opacity: 0.2;
+    content: '';
+}
+
+
+/* sc-category */
+.sc-category{
+    width: 100%;
+    height: 130px;
+    padding: 14px 0 32px 0;
+}
+.sc-category .category-list{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    overflow-x: auto;
+    padding: 0 16px 0 16px;
+}
+.sc-category .category-list::-webkit-scrollbar{
+    display: none;
+}
+.sc-category .category-item a{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.sc-category .category-item [class *= "ic-"]{
+    width: 64px;
+    height: 64px;
+}
+.sc-category .category-item .ic-category{
+    background: url(../images/category1.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-jikjack{
+    background: url(../images/category2.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-brand{
+    background: url(../images/category3.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-top{
+    background: url(../images/category4.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-bottom{
+    background: url(../images/category5.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-skirt{
+    background: url(../images/category6.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-onepiece{
+    background: url(../images/category7.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-beachwear{
+    background: url(../images/category8.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-innerwear{
+    background: url(../images/category9.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-outer{
+    background: url(../images/category10.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-shoes{
+    background: url(../images/category11.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-bag{
+    background: url(../images/category12.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-twopiece{
+    background: url(../images/category13.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-jewellery{
+    background: url(../images/category14.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-plus{
+    background: url(../images/category15.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-training{
+    background: url(../images/category16.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-beauty{
+    background: url(../images/category17.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-food{
+    background: url(../images/category18.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .ic-life{
+    background: url(../images/category19.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-category .category-item .name{
+    width: 64px;
+    color: rgb(36, 39, 41);
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    white-space: nowrap;
+}
+
+
+/* sc-product */
+.sc-product{
+    width: 100%;
+    padding: 8px 0 16px;
+}
+.sc-product .headline{
+    padding: 0 16px 12px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.sc-product .swiper{
+    padding: 0 16px 24px;
+    width: 100%;
+    max-height: 330px;
+}
+.sc-product .swiper .swiper-slide{
+    position: relative;
+    min-width: 0;
+}
+.sc-product .swiper .thumb{
+    position: relative;
+    /* padding-bottom: calc((224/187)*100%); 화면비 계산법 */
+}
+.sc-product .swiper .thumb img{
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 0.83/1;
+    object-fit: cover;
+}
+.sc-product .swiper .mark{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 28px;
+    height: 21px;
+}
+.sc-product .swiper .btn-pick{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    width: 28px;
+    height: 28px;
+    z-index: 1;
+}
+.sc-product .swiper .text-wrap{
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.sc-product .swiper .shop{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.sc-product .swiper .shop::after{
+    width: 12px;
+    height: 12px;
+    background: url(../images/shop.png) no-repeat center;
+    background-size: 100%;
+    content: '';
+}
+.sc-product .swiper .title{
+    font-size: 11px;
+}
+.sc-product .swiper .price{
+    font-size: 15px;
+    font-weight: 600;
+}
+.sc-product .swiper .point{
+    color: var(--zds-components-product-card-metadata-price-discount-percent-text-color);
+}
+.sc-product .swiper .tag{
+    display: flex;
+    gap: 2px;
+}
+.sc-product .swiper .tag img{
+    width: 40px;
+    height: 16px;
+}
+.sc-product .swiper .rating{
+    display: flex;
+    align-items: center;
+    color: var(--zds-colors-global-gray-400);
+    font-size: 10px;
+    font-weight: 600;
+}
+.sc-product .swiper .rating::before{
+    width: 12px;
+    height: 12px;
+    background: url(../images/star.png) no-repeat center;
+    background-size: 100%;
+    content: '';
+}
+.sc-product .swiper .link{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.sc-product .benefit-link{
+    display: block;
+    margin: 24px 16px;
+    padding: 13px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 100px;
+    border: 1px solid rgb(210, 213, 214);
+}
+
+.sc-product .product-area{
+    width: 100%;
+    padding: 8px 0;
+}
+.sc-product .product-list{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 24px 2px;
+}
+@media (max-width: 449px){
+    .sc-product .product-list{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+.sc-product .product-item{
+    position: relative;
+    min-width: 0;
+}
+.sc-product .product-item .thumb{
+    position: relative;
+}
+.sc-product .product-item .thumb img{
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 0.83/1;
+    object-fit: cover;
+}
+.sc-product .product-item .btn-pick{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    width: 28px;
+    height: 28px;
+    z-index: 1;
+}
+.sc-product .product-item .text-wrap{
+    margin-top: 8px;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.sc-product .product-item .shop{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.sc-product .product-item .shop::after{
+    width: 12px;
+    height: 12px;
+    background: url(../images/shop.png) no-repeat center;
+    background-size: 100%;
+    content: '';
+}
+.sc-product .product-item .title{
+    font-size: 11px;
+}
+.sc-product .product-item .price{
+    font-size: 15px;
+    font-weight: 600;
+}
+.sc-product .product-item .point{
+    color: var(--zds-components-product-card-metadata-price-discount-percent-text-color);
+}
+.sc-product .product-item .tag{
+    display: flex;
+    gap: 2px;
+}
+.sc-product .product-item .tag img{
+    width: 40px;
+    height: 16px;
+}
+.sc-product .product-item .rating{
+    display: flex;
+    align-items: center;
+    color: var(--zds-colors-global-gray-400);
+    font-size: 10px;
+    font-weight: 600;
+}
+.sc-product .product-item .rating::before{
+    width: 12px;
+    height: 12px;
+    background: url(../images/star.png) no-repeat center;
+    background-size: 100%;
+    content: '';
+}
+.sc-product .product-item .link{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.sc-product #btn-more{
+    width: calc(100% - 20px);
+    margin: 24px 0;
+    margin-left: 10px;
+    padding: 13px 0;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 100px;
+    border: 1px solid rgb(210, 213, 214);
+}

@@ -1,0 +1,1007 @@
+{
+    "item_list": [
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "517",
+            "shop_name": "블랙업",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/6/5/517_202406050948180944_69235.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/6/5/517_202406050948180944_69235.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/124249752?browsing_type=DETAIL_BROWSER",
+            "title": "[1만장판매] [B-BASIC] 유넥 골지 반팔티 (2SIZE)",
+            "price": 19000,
+            "discount_rate": 75,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 9000,
+            "max_price": 0,
+            "catalog_product_id": "124249752",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=47&final_price=19000&review_score=4.790064811706543&review_count=2315",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 2315,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": false,
+            "sales_status": "ON_SALE",
+            "display_review_count": "2,315",
+            "review_score": 4.8,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "3573",
+                    "category_id": 3573,
+                    "value": "패션의류",
+                    "key": "fashion_clothing",
+                    "depth": 1
+                },
+                {
+                    "id": "4056",
+                    "category_id": 4056,
+                    "value": "여성 패션의류",
+                    "key": "women_clothes",
+                    "depth": 2
+                },
+                {
+                    "id": "331",
+                    "category_id": 331,
+                    "value": "티셔츠",
+                    "key": "top_t-shirt",
+                    "depth": 3
+                },
+                {
+                    "id": "4072",
+                    "category_id": 4072,
+                    "value": "반소매티셔츠",
+                    "key": "top_t-shirt_short-sleeves",
+                    "depth": 4
+                }
+            ],
+            "is_plp_v2": true
+        },
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "11864",
+            "shop_name": "미쏘",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/4/3/11864_202404031024330779_21463.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/4/3/11864_202404031024330779_21463.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/121613744?browsing_type=DETAIL_BROWSER",
+            "title": "[🏆누적6만장/고밀도코튼]루즈핏 반팔 셔츠_MIWYAE510A",
+            "price": 29900,
+            "discount_rate": 38,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 18400,
+            "max_price": 0,
+            "catalog_product_id": "121613744",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=5&final_price=28400&review_score=4.788309574127197&review_count=2532",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 2532,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": true,
+            "sales_status": "ON_SALE",
+            "display_review_count": "2,532",
+            "review_score": 4.8,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "3573",
+                    "category_id": 3573,
+                    "value": "패션의류",
+                    "key": "fashion_clothing",
+                    "depth": 1
+                },
+                {
+                    "id": "4056",
+                    "category_id": 4056,
+                    "value": "여성 패션의류",
+                    "key": "women_clothes",
+                    "depth": 2
+                },
+                {
+                    "id": "340",
+                    "category_id": 340,
+                    "value": "셔츠/남방/블라우스",
+                    "key": "top_shirt-flannel",
+                    "depth": 3
+                },
+                {
+                    "id": "345",
+                    "category_id": 345,
+                    "value": "셔츠/남방",
+                    "key": "top_shirt-flannel_shirt-flannel",
+                    "depth": 4
+                }
+            ],
+            "is_plp_v2": true
+        },
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "4220",
+            "shop_name": "데일리쥬",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/21/4220_202405211356360842_90125.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/21/4220_202405211356360842_90125.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/111424717?browsing_type=DETAIL_BROWSER",
+            "title": "[5만장판매/MADE] 보일 나일론 반팔 셔츠 - 4 color",
+            "price": 31000,
+            "discount_rate": 53,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 21000,
+            "max_price": 0,
+            "catalog_product_id": "111424717",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=31&final_price=31000&review_score=4.703166961669922&review_count=4831",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 4831,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": false,
+            "sales_status": "ON_SALE",
+            "display_review_count": "4,831",
+            "review_score": 4.7,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "3573",
+                    "category_id": 3573,
+                    "value": "패션의류",
+                    "key": "fashion_clothing",
+                    "depth": 1
+                },
+                {
+                    "id": "4056",
+                    "category_id": 4056,
+                    "value": "여성 패션의류",
+                    "key": "women_clothes",
+                    "depth": 2
+                },
+                {
+                    "id": "340",
+                    "category_id": 340,
+                    "value": "셔츠/남방/블라우스",
+                    "key": "top_shirt-flannel",
+                    "depth": 3
+                },
+                {
+                    "id": "345",
+                    "category_id": 345,
+                    "value": "셔츠/남방",
+                    "key": "top_shirt-flannel_shirt-flannel",
+                    "depth": 4
+                }
+            ],
+            "is_plp_v2": true
+        },
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "11864",
+            "shop_name": "미쏘",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/4/23/11864_202404230831390078_29691.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/4/23/11864_202404230831390078_29691.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/138297679?browsing_type=DETAIL_BROWSER",
+            "title": "[링클프리/누적6만장🍃] 링클프리 반팔 블라우스_MIWBWE520A",
+            "price": 29900,
+            "discount_rate": 38,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 18400,
+            "max_price": 0,
+            "catalog_product_id": "138297679",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=5&final_price=28400&review_score=4.858333110809326&review_count=360",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 360,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": true,
+            "sales_status": "ON_SALE",
+            "display_review_count": "360",
+            "review_score": 4.9,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "3573",
+                    "category_id": 3573,
+                    "value": "패션의류",
+                    "key": "fashion_clothing",
+                    "depth": 1
+                },
+                {
+                    "id": "4056",
+                    "category_id": 4056,
+                    "value": "여성 패션의류",
+                    "key": "women_clothes",
+                    "depth": 2
+                },
+                {
+                    "id": "340",
+                    "category_id": 340,
+                    "value": "셔츠/남방/블라우스",
+                    "key": "top_shirt-flannel",
+                    "depth": 3
+                },
+                {
+                    "id": "339",
+                    "category_id": 339,
+                    "value": "블라우스",
+                    "key": "top_blouse",
+                    "depth": 4
+                }
+            ],
+            "is_plp_v2": true
+        },
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "517",
+            "shop_name": "블랙업",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/4/26/517_202304261000160669_80005.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/4/26/517_202304261000160669_80005.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/123125936?browsing_type=DETAIL_BROWSER",
+            "title": "[4만장판매] [MADE] 수잔 유넥 크롭 반팔티",
+            "price": 19000,
+            "discount_rate": 75,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 9000,
+            "max_price": 0,
+            "catalog_product_id": "123125936",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=47&final_price=19000&review_score=4.78879451751709&review_count=8139",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 8139,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": false,
+            "sales_status": "ON_SALE",
+            "display_review_count": "8,139",
+            "review_score": 4.8,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "3573",
+                    "category_id": 3573,
+                    "value": "패션의류",
+                    "key": "fashion_clothing",
+                    "depth": 1
+                },
+                {
+                    "id": "4056",
+                    "category_id": 4056,
+                    "value": "여성 패션의류",
+                    "key": "women_clothes",
+                    "depth": 2
+                },
+                {
+                    "id": "331",
+                    "category_id": 331,
+                    "value": "티셔츠",
+                    "key": "top_t-shirt",
+                    "depth": 3
+                },
+                {
+                    "id": "4072",
+                    "category_id": 4072,
+                    "value": "반소매티셔츠",
+                    "key": "top_t-shirt_short-sleeves",
+                    "depth": 4
+                }
+            ],
+            "is_plp_v2": true
+        },
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "9512",
+            "shop_name": "매니크",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/9/9512_202405091048130632_55087.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/9/9512_202405091048130632_55087.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/129076367?browsing_type=DETAIL_BROWSER",
+            "title": "[7만장판매/MNQ MADE] 빈티지 스냅버튼 와이드 데님팬츠",
+            "price": 45000,
+            "discount_rate": 44,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 35000,
+            "max_price": 0,
+            "catalog_product_id": "129076367",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=27&final_price=45000&review_score=4.8670477867126465&review_count=2625",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 2625,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": false,
+            "sales_status": "ON_SALE",
+            "display_review_count": "2,625",
+            "review_score": 4.9,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "3573",
+                    "category_id": 3573,
+                    "value": "패션의류",
+                    "key": "fashion_clothing",
+                    "depth": 1
+                },
+                {
+                    "id": "4056",
+                    "category_id": 4056,
+                    "value": "여성 패션의류",
+                    "key": "women_clothes",
+                    "depth": 2
+                },
+                {
+                    "id": "361",
+                    "category_id": 361,
+                    "value": "바지",
+                    "key": "pants",
+                    "depth": 3
+                },
+                {
+                    "id": "365",
+                    "category_id": 365,
+                    "value": "와이드팬츠",
+                    "key": "wide_leg",
+                    "depth": 4
+                }
+            ],
+            "is_plp_v2": true
+        },
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "14253",
+            "shop_name": "삐아",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/4/4/14253_202404041055380574_22100.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/4/4/14253_202404041055380574_22100.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/137226903?browsing_type=DETAIL_BROWSER",
+            "title": "오버 글레이즈 (5color)  [제이미포유 공동개발] 🚀직진배송🚀",
+            "price": 16000,
+            "discount_rate": 94,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 900,
+            "max_price": 0,
+            "catalog_product_id": "137226903",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=32&final_price=10900&review_score=4.745823860168457&review_count=2215",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 2215,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": false,
+            "sales_status": "ON_SALE",
+            "display_review_count": "2,215",
+            "review_score": 4.7,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "2277",
+                    "category_id": 2277,
+                    "value": "뷰티",
+                    "key": "beauty",
+                    "depth": 1
+                },
+                {
+                    "id": "2282",
+                    "category_id": 2282,
+                    "value": "립메이크업",
+                    "key": "lip_makeup",
+                    "depth": 2
+                },
+                {
+                    "id": "2997",
+                    "category_id": 2997,
+                    "value": "립글로스",
+                    "key": "lip_gloss",
+                    "depth": 3
+                }
+            ],
+            "is_plp_v2": true
+        },
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "517",
+            "shop_name": "블랙업",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/13/517_202405132252420714_22115.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/13/517_202405132252420714_22115.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/140959898?browsing_type=DETAIL_BROWSER",
+            "title": "[B-BASIC] 워셔블 쿨 라운드 반팔티 (2SIZE)",
+            "price": 19000,
+            "discount_rate": 53,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 9000,
+            "max_price": 0,
+            "catalog_product_id": "140959898",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=0&final_price=19000&review_score=4.645161151885986&review_count=124",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 124,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": false,
+            "sales_status": "ON_SALE",
+            "display_review_count": "124",
+            "review_score": 4.6,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "3573",
+                    "category_id": 3573,
+                    "value": "패션의류",
+                    "key": "fashion_clothing",
+                    "depth": 1
+                },
+                {
+                    "id": "4056",
+                    "category_id": 4056,
+                    "value": "여성 패션의류",
+                    "key": "women_clothes",
+                    "depth": 2
+                },
+                {
+                    "id": "331",
+                    "category_id": 331,
+                    "value": "티셔츠",
+                    "key": "top_t-shirt",
+                    "depth": 3
+                },
+                {
+                    "id": "4072",
+                    "category_id": 4072,
+                    "value": "반소매티셔츠",
+                    "key": "top_t-shirt_short-sleeves",
+                    "depth": 4
+                }
+            ],
+            "is_plp_v2": true
+        },
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "4220",
+            "shop_name": "데일리쥬",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/8/4220_202405081037260953_58473.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/8/4220_202405081037260953_58473.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/111503151?browsing_type=DETAIL_BROWSER",
+            "title": "[21만장판매/MADE] 데어 밴딩 팬츠 - 9 color(숏팬츠 추가)",
+            "price": 19800,
+            "discount_rate": 77,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 9800,
+            "max_price": 0,
+            "catalog_product_id": "111503151",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=53&final_price=19800&review_score=4.687438011169434&review_count=29159",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 29159,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": false,
+            "sales_status": "ON_SALE",
+            "display_review_count": "29,159",
+            "review_score": 4.7,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "3573",
+                    "category_id": 3573,
+                    "value": "패션의류",
+                    "key": "fashion_clothing",
+                    "depth": 1
+                },
+                {
+                    "id": "4056",
+                    "category_id": 4056,
+                    "value": "여성 패션의류",
+                    "key": "women_clothes",
+                    "depth": 2
+                },
+                {
+                    "id": "361",
+                    "category_id": 361,
+                    "value": "바지",
+                    "key": "pants",
+                    "depth": 3
+                },
+                {
+                    "id": "365",
+                    "category_id": 365,
+                    "value": "와이드팬츠",
+                    "key": "wide_leg",
+                    "depth": 4
+                }
+            ],
+            "is_plp_v2": true
+        },
+        {
+            "type": "UX_GOODS_CARD_ITEM",
+            "shop_id": "517",
+            "shop_name": "블랙업",
+            "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/13/517_202405132324390329_45170.gif?width=400&height=400&quality=80&format=jpeg",
+            "shop_product_no": null,
+            "position": 0,
+            "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/5/13/517_202405132324390329_45170.gif?width=400&height=400&quality=80&format=webp",
+            "uuid": null,
+            "bridge": null,
+            "product_url": "https://store.zigzag.kr/app/catalog/products/140960253?browsing_type=DETAIL_BROWSER",
+            "title": "[B-BASIC] 스탠다드 망고나시 (2SIZE)",
+            "price": 19000,
+            "discount_rate": 53,
+            "free_shipping": true,
+            "origin_id": null,
+            "zpay": true,
+            "column_count": null,
+            "ranking": null,
+            "final_price": 9000,
+            "max_price": 0,
+            "catalog_product_id": "140960253",
+            "browsing_type": "DETAIL_BROWSER",
+            "log": "badge_list=meta_FIRST_ORDER,meta_FREE_SHIPPING,meta_MILEAGE,thum_ZIGZIN,meta_FIRST_ORDER_COUPON&discount_rate=0&final_price=19000&review_score=4.792592525482178&review_count=135",
+            "aid": null,
+            "image_ratio": null,
+            "review_count": 135,
+            "bookmarked": false,
+            "is_zonly": true,
+            "is_brand": false,
+            "sales_status": "ON_SALE",
+            "display_review_count": "135",
+            "review_score": 4.8,
+            "discount_info": null,
+            "badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554241051_080366.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160554240988_083993.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124538_095352.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740128053_066023.png",
+                    "type": "FIRST_ORDER"
+                },
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027635_027373.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160538027647_078049.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740125295_041599.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/03/25/202403250740124295_048806.png",
+                    "type": "FREE_SHIPPING"
+                }
+            ],
+            "brand_name_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160530576279_096287.png",
+                    "type": "MILEAGE"
+                }
+            ],
+            "thumbnail_nudge_badge_list": null,
+            "thumbnail_emblem_badge_list": [
+                {
+                    "image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291598_018468.png",
+                    "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/02/16/202402160532291685_034653.png",
+                    "type": "ZIGZIN"
+                }
+            ],
+            "managed_category_list": [
+                {
+                    "id": "3573",
+                    "category_id": 3573,
+                    "value": "패션의류",
+                    "key": "fashion_clothing",
+                    "depth": 1
+                },
+                {
+                    "id": "4056",
+                    "category_id": 4056,
+                    "value": "여성 패션의류",
+                    "key": "women_clothes",
+                    "depth": 2
+                },
+                {
+                    "id": "331",
+                    "category_id": 331,
+                    "value": "티셔츠",
+                    "key": "top_t-shirt",
+                    "depth": 3
+                },
+                {
+                    "id": "359",
+                    "category_id": 359,
+                    "value": "민소매/나시",
+                    "key": "top_sleeveless-sleeveless",
+                    "depth": 4
+                }
+            ],
+            "is_plp_v2": true
+        }
+    ]
+}

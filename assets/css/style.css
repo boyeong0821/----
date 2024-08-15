@@ -1,0 +1,317 @@
+/* 카테고리 */
+
+/* category */
+.category{
+    display: flex;
+    padding-bottom: 55px;
+}
+
+.category .category-menu{
+    position: sticky;
+    top: 54px;
+    width: 114px;
+    height: calc(100vh - 44px);
+    background-color: #f5f6f8;
+}
+.category .category-item .title{
+    width: 100%;
+    height: 56px;
+    padding: 20px;
+    text-align: left;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18px;
+    white-space: nowrap;
+}
+.category .category-menu .line{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 56px;
+    background: #fff;
+    z-index: -1;
+    transition: .3s;
+}
+
+.category .sub{
+    width: 100%;
+}
+.category .sub-menu{
+    padding-bottom: 24px;
+}
+.category .sub-menu .title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 12px 0 20px;
+    width: 100%;
+    height: 48px;
+    color: #29206e;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+}
+.category .sub-menu .shortcut svg{
+    color: #29206e;
+}
+
+.category .sub-menu .sub-list{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.category .sub-menu .sub-item a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 12px 0 20px;
+    width: 100%;
+    height: 48px;
+}
+.category .sub-menu .sub-item .sub-title{
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18px;
+}
+.category .sub-menu .sub-item .shortcut svg{
+    color: #d2d5d6;
+}
+
+
+/* 찜 */
+
+/* sc-pick */
+.sc-pick{
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 52px);
+    padding-bottom: 55px;
+    max-height: 782px;
+}
+
+.sc-pick .btn-basic{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 6px 12px;
+    min-height: 32px;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 16px;
+    color: #fff;
+    border-radius: 100px;
+    background: rgb(52, 56, 59);
+}
+
+.sc-pick .placeholder{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.sc-pick .placeholder .thumb{
+    width: 100%;
+    height: 100%;
+}
+.sc-pick .placeholder .text{
+    display: block;
+    margin-top: 24px;
+    color: #697175;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -1px;
+    text-align: center;
+}
+.sc-pick .placeholder .bold{
+    display: block;
+    color: #242729;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+
+/* 마이페이지 */
+
+/* sc-login */
+.sc-login{
+    width: 100%;
+    min-height: calc(100vh - 52px);
+    max-height: 782px;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sc-login .login-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sc-login .login-box .logo{
+    width: 145px;
+    height: 36px;
+    margin-bottom: 62px;
+    background: url(../images/logo.png) no-repeat center;
+    background-size: 100%;
+}
+
+.sc-login .login-box .text{
+    position: relative;
+    margin-bottom: 27px;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 19px;
+    text-align: center;
+    border-radius: 12px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.1) 0px 8px 10px);
+    background: #fff;
+}
+.sc-login .login-box .text::after{
+    position: absolute;
+    bottom: -5px;
+    left: calc(50% - 8px);
+    width: 11px;
+    height: 11px;
+    border-radius: 0px 0px 0px 0.25em;
+    background: rgb(255, 255, 255);
+    clip-path: polygon(0% 0%, 100% 100%, 0% 100%);
+    transform: rotate(-45deg);
+    content: '';
+}
+.sc-login .login-box .point{
+    color: rgb(250, 110, 227);
+    font-weight: 600;
+}
+
+.sc-login .login-box .login-list{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.sc-login .login-box .login-item a{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 300px;
+    padding: 15px 100px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    border-radius: 50px;
+    white-space: nowrap;
+}
+.sc-login .login-box .login-item a::before{
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+    width: 24px;
+    height: 24px;
+    content: '';
+}
+.sc-login .login-box .login-item .link-kakao{
+    background: #fee500;
+}
+.sc-login .login-box .login-item .link-kakao::before{
+    background: url(../images/kakao.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-login .login-box .login-item .link-phone{
+    color: #fff;
+    background: #242729;
+}
+.sc-login .login-box .login-item .link-phone::before{
+    background: url(../images/phone.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-login .login-box .login-item .link-email{
+    border: 1px solid #d2d5d6;
+}
+.sc-login .login-box .login-item .link-email::before{
+    background: url(../images/email.png) no-repeat center;
+    background-size: 100%;
+}
+
+.sc-login .login-box .or{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    color: #a1a9ad;
+}
+.sc-login .login-box .or::before{
+    width: 100px;
+    height: 1px;
+    background: #f5f6f8;
+    content: '';
+}
+.sc-login .login-box .or::after{
+    width: 100px;
+    height: 1px;
+    background: #f5f6f8;
+    content: '';
+}
+
+.sc-login .login-box .other-list{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 24px;
+}
+.sc-login .login-box .other-item a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 55px;
+}
+.sc-login .login-box .other-item a::before{
+    width: 45px;
+    height: 45px;
+    content: '';
+}
+.sc-login .login-box .other-item .link-apple::before{
+    background: url(../images/apple.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-login .login-box .other-item .link-google::before{
+    background: url(../images/google.png) no-repeat center;
+    background-size: 100%;
+}
+.sc-login .login-box .other-item .link-facebook::before{
+    background: url(../images/facebook.png) no-repeat center;
+    background-size: 100%;
+}
+
+.sc-login .login-box .util-list{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 32px;
+}
+.sc-login .login-box .util-item a{
+    position: relative;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #4f5558;
+}
+.sc-login .login-box .util-item + .util-item a::before{
+    position: absolute;
+    top: 50%;
+    left: -10px;
+    transform: translateY(-50%);
+    width: 0.5px;
+    height: 80%;
+    background: #d2d5d6;
+    content: '';
+}
